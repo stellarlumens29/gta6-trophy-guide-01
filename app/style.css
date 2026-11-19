@@ -1,0 +1,235 @@
+/* Leonida Platinum Roadmap — original look.
+   Deep violet night, sunset amber and pink accents. System fonts only,
+   no external assets, no Rockstar art. */
+
+/* ---- palette ---- */
+:root {
+  --night: #150a2e;
+  --night-2: #1f0f42;
+  --card: #241347;
+  --card-2: #2c1a55;
+  --edge: #4a2f7d;
+  --ink: #f3ecff;
+  --ink-dim: #b9a8dd;
+  --amber: #ffb020;
+  --pink: #ff5e8a;
+  --cyan: #8be9ff;
+  --gold: #ffd34d;
+  --silver: #cfd6e4;
+  --bronze: #e09a5f;
+  --deep: #1c0d38;
+  --track: #3a2364;
+}
+
+/* ---- base ---- */
+* { box-sizing: border-box; }
+html { background: var(--night); }
+body {
+  margin: 0;
+  background: linear-gradient(180deg, var(--night) 0%, var(--night-2) 60%, #170b31 100%);
+  color: var(--ink);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+main { max-width: 1180px; margin: 0 auto; padding: 20px; }
+.dim { color: var(--ink-dim); }
+.small { font-size: 13px; }
+
+/* Shot scenes (?shot=...) hide the sections above the target so the shot
+   needs no scrolling — headless --screenshot leaves scrolled-in regions
+   unpainted. Only active with the query param, never in normal use. */
+body[data-shot="roadmap"] .top,
+body[data-shot="roadmap"] #missablePanel { display: none; }
+body[data-shot="filter"] .top,
+body[data-shot="filter"] #missablePanel,
+body[data-shot="filter"] #roadmapPanel { display: none; }
+body[data-shot="detail"] .top,
+body[data-shot="detail"] #missablePanel,
+body[data-shot="detail"] #roadmapPanel,
+body[data-shot="detail"] .controls { display: none; }
+
+/* ---- header / hero ---- */
+.top {
+  background: linear-gradient(120deg, #2a1150 0%, #4a1259 55%, #7c1d3f 100%);
+  border-bottom: 3px solid var(--amber);
+}
+.top-inner { max-width: 1180px; margin: 0 auto; padding: 28px 20px 24px; }
+.kicker {
+  margin: 0 0 4px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: var(--amber);
+}
+h1 { margin: 0; font-size: 40px; line-height: 1.1; letter-spacing: -.01em; }
+.sub { margin: 8px 0 0; color: #e8dcff; max-width: 760px; }
+.hero { display: flex; gap: 28px; align-items: center; margin-top: 22px; flex-wrap: wrap; }
+.ring {
+  --p: 0;
+  width: 132px; height: 132px;
+  border-radius: 50%;
+  flex: none;
+  background: conic-gradient(var(--amber) calc(var(--p) * 1%), var(--track) 0);
+  display: grid; place-items: center;
+}
+.ring span {
+  width: 104px; height: 104px;
+  border-radius: 50%;
+  background: var(--deep);
+  display: grid; place-items: center;
+  font-size: 26px; font-weight: 800;
+}
+.hero-stats { min-width: 240px; }
+.big { font-size: 26px; font-weight: 800; margin: 0; }
+.gradebars { margin-top: 12px; display: grid; gap: 6px; }
+.gbar {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 10px;
+  align-items: center;
+  font-size: 13px;
+}
+.gname.platinum { color: var(--cyan); }
+.gname.gold { color: var(--gold); }
+.gname.silver { color: var(--silver); }
+.gname.bronze { color: var(--bronze); }
+.track { display: block; height: 8px; background: var(--track); border-radius: 4px; overflow: hidden; }
+.fill { display: block; height: 100%; background: var(--amber); border-radius: 4px; }
+.fill.platinum { background: var(--cyan); }
+.fill.gold { background: var(--gold); }
+.fill.silver { background: var(--silver); }
+.fill.bronze { background: var(--bronze); }
+.hero-facts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 22px; margin-left: auto; }
+.hero-facts p { margin: 0; display: grid; }
+.hero-facts strong { font-size: 24px; }
+.hero-facts span { color: var(--ink-dim); font-size: 13px; }
+
+/* ---- panels, roadmap ---- */
+.panel {
+  background: var(--card);
+  border: 1px solid var(--edge);
+  border-radius: 14px;
+  padding: 18px 20px;
+  margin-bottom: 18px;
+}
+.panel h2 { margin: 0 0 8px; font-size: 22px; }
+.panel.warn {
+  border-color: var(--amber);
+  background: linear-gradient(120deg, #3a2405, var(--card) 70%);
+}
+.plat { color: var(--cyan); }
+.steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.steps li {
+  display: flex; gap: 14px; align-items: flex-start;
+  background: var(--card-2);
+  border: 1px solid var(--edge);
+  border-radius: 10px;
+  padding: 12px 14px;
+}
+.stepn {
+  flex: none;
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  background: var(--amber); color: #241300;
+  font-weight: 800;
+  display: grid; place-items: center;
+}
+.steps .track { margin: 6px 0; }
+.nextup {
+  margin-top: 14px;
+  background: var(--deep);
+  border: 1px dashed var(--amber);
+  border-radius: 10px;
+  padding: 12px 16px;
+}
+.nextup h3 { margin: 0 0 6px; }
+.nextup ol { margin: 0; padding-left: 20px; }
+
+/* ---- filters / tools ---- */
+.controls .row { display: flex; gap: 14px; flex-wrap: wrap; align-items: end; margin-bottom: 12px; }
+.controls label { display: grid; gap: 4px; font-size: 13px; color: var(--ink-dim); }
+.controls label.grow { flex: 1; min-width: 220px; }
+.controls label.check {
+  display: flex; gap: 6px; align-items: center;
+  color: var(--ink);
+  padding-bottom: 8px;
+}
+input[type="search"], input[type="text"], select {
+  background: var(--deep);
+  color: var(--ink);
+  border: 1px solid var(--edge);
+  border-radius: 8px;
+  padding: 9px 10px;
+  font: inherit;
+}
+.chips { gap: 8px; }
+.chip {
+  background: var(--deep);
+  color: var(--ink);
+  border: 1px solid var(--edge);
+  border-radius: 999px;
+  padding: 7px 14px;
+  font: inherit;
+  cursor: pointer;
+}
+.chip.on { background: var(--amber); color: #241300; border-color: var(--amber); font-weight: 700; }
+.tools { align-items: center; }
+button, .importBtn {
+  background: var(--amber);
+  color: #241300;
+  border: 0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+button.guideBtn { background: none; color: var(--cyan); padding: 6px 0; font-weight: 700; text-align: left; }
+#resetBtn { background: var(--track); color: var(--ink); }
+.importBtn { background: var(--track); color: var(--ink); }
+.status { flex: 1; min-width: 200px; }
+.count { margin: 4px 0 12px; }
+
+/* ---- trophy grid ---- */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--edge);
+  border-radius: 12px;
+  padding: 14px 16px;
+  position: relative;
+}
+.card.done {
+  border-color: var(--amber);
+  background: linear-gradient(160deg, #33200a, var(--card) 65%);
+}
+.card.flag { border-left: 4px solid var(--amber); }
+.tick { display: flex; gap: 8px; align-items: center; font-weight: 700; cursor: pointer; }
+.tick input { width: 18px; height: 18px; accent-color: var(--amber); }
+.chead { display: flex; gap: 6px; flex-wrap: wrap; margin: 10px 0 6px; }
+.grade {
+  font-size: 12px; font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  padding: 3px 9px;
+}
+.grade.platinum { background: var(--cyan); color: #06222b; }
+.grade.gold { background: var(--gold); color: #2b1d00; }
+.grade.silver { background: var(--silver); color: #1c2230; }
+.grade.bronze { background: var(--bronze); color: #2b1503; }
+.badge { font-size: 12px; font-weight: 700; border-radius: 999px; padding: 3px 9px; }
+.badge.miss { background: var(--pink); color: #2b0010; }
+.badge.warn { background: var(--amber); color: #241300; }
+.badge.unconf { background: var(--track); color: var(--ink); border: 1px solid var(--pink); }
+.badge.comm { background: var(--track); color: var(--ink); border: 1px solid var(--cyan); }
+.card h3 { margin: 0 0 4px; font-size: 19px; }
+.desc { margin: 0 0 6px; }
+.meta { margin: 0 0 4px; }
+.guide { border-top: 1px solid var(--edge); margin-top: 8px; padding-top: 8px; }
+.guide p { margin: 6px 0; }
+footer p { margin: 8px 0; }
+
+@media (max-width: 640px) {
+  h1 { font-size: 30px; }
+  .hero-facts { margin-left: 0; }
+}

@@ -1,0 +1,1431 @@
+{
+  "meta": {
+    "game": "Grand Theft Auto VI",
+    "platform": "PlayStation 5",
+    "list": "the official 55 trophies, 2026-11-18",
+    "rewritten": "2026-11-19 — guides reworded and file restructured by the recorded agent; verified fields unchanged"
+  },
+  "verified_against": [
+    "make.fun kit starter list (55 names, descriptions, grades)",
+    "OutputLag — GTA 6 Trophy List (descriptions stated to be the official text; 27 visible / 28 hidden)",
+    "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap (counts, roadmap, missable flag)",
+    "Push Square via Exophase — 55 trophies incl. Platinum (18 Nov 2026)"
+  ],
+  "verification_note": "Every name, official description and PS5 grade was cross-checked against the kit starter list and OutputLag's list, which states its descriptions are the official text. Counts inside guides (250 stunts, 42 shooting-range medals, 14 Top Fun locations, 18 meditation spots, 9 activity types, 8 garages, 9 gangs, 500 Criminal Profile actions) were cross-checked against KeenGamer. Five trophies have no confirmed unlock method at launch — their guides say so instead of inventing one. Hidden status (27 visible / 28 hidden) is as reported by Exophase-derived lists, not from Sony. One outlet (gtasix.how) reports 15 hidden; the 28 figure is used because OutputLag, u7buy, egamers and Leonida Hub all report 28.",
+  "summary": {
+    "counts": {
+      "total": 55,
+      "platinum": 1,
+      "gold": 2,
+      "silver": 6,
+      "bronze": 46,
+      "visible": 27,
+      "hidden": 28
+    },
+    "categories": {
+      "story": 12,
+      "missions": 7,
+      "activities": 13,
+      "collectibles": 8,
+      "misc": 15
+    },
+    "guide_status": {
+      "supported": 47,
+      "community-reported": 4,
+      "unconfirmed-method": 4
+    },
+    "missable": {
+      "potentially_missable": [
+        "Positive Mental Attitude"
+      ],
+      "time_sensitive": [
+        "Strangers & Freaks"
+      ],
+      "note": "No mission replay and no New Game Plus. Keep a manual save at the start of every chapter and one before the final mission (15 manual save slots plus one autosave)."
+    },
+    "estimates": {
+      "platinum_time_hours": 200,
+      "difficulty_out_of_10": 4,
+      "note": "Launch-week estimates from KeenGamer, not official figures."
+    }
+  },
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "grade": "platinum",
+      "category": "misc",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "platinum",
+      "guide": "This one unlocks by itself once the other 54 are earned. Work in order: story, then the 100% completion checklist, then the stranger strands, then cleanup of the long grinds — stunts, WAiNK scans, cards and challenges. Launch-week guides estimate the whole run at roughly 200 hours and about 4 out of 10 for difficulty: long, not hard. There are no online trophies and no difficulty trophies, and cheats switch trophies and saving off, so keep them off this save.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)",
+        "Push Square via Exophase (18 Nov 2026)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Gone Fishing.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Finish the opening mission, Gone Fishing. It is the first mission of the game, so it unlocks as you play the story — nothing to prepare and nothing you can miss.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Chapter 1.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "See Chapter 1 through to its end. The one thing to do before the chapter closes is Lucia's balcony meditation (Positive Mental Attitude): that interaction vanishes when the chapter ends and there is no mission replay to get it back. Keep a manual save from the start of the chapter.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Chapter 2.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "See Chapter 2 through to its end. Switching between Jason and Lucia also opens up in this chapter, which is when most free-roam hunting begins — scan vehicles with the WAiNK app as you drive and the vehicle and location totals grow by themselves.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Chapter 3.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "See Chapter 3 through to its end. Keep an eye out here for the time-sensitive Race Against Yago in Yago's street-racing strand: it shows an hourglass icon, and the strand feeds Strangers & Freaks, so race it as soon as it appears and save first.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Chapter 4.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "See Chapter 4 through to its end. Near the chapter's end, the optional mission That's Where The Money Is opens the bank-vault robberies — take it when it shows up, since it unlocks Maximum Withdrawal and several robbery trophies.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "grade": "gold",
+      "category": "story",
+      "description": "Complete the final mission.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Beat the final story mission. With no mission replay and no New Game Plus, hold on to one untouched manual save from just before the final mission — it is the only way back if you want to redo anything in the endgame.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Breakfast Run.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission Breakfast Run. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete The Cartel Heist.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission The Cartel Heist. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Child's Play.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission Child's Play. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Headliners.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission Headliners. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete VCIA Takedown.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission VCIA Takedown. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "grade": "bronze",
+      "category": "story",
+      "description": "Complete Operation Savage Glory.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "story",
+      "guide": "Complete the story mission Operation Savage Glory. It unlocks when the mission ends, as part of the story — no extra objective.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "grade": "gold",
+      "category": "misc",
+      "description": "Attain 100% Completion.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Hit 100% completion. The checklist only shows up after the story, under Progress, then Stats, then 100% Completion — but everything done earlier still counts, so chip away at it throughout. It asks for selected portions, not everything: 100 optional tasks, all 39 gang operations, 22 bank jobs, 7 payday loan jobs, 8 bank vaults, 15 of 18 card sets, 100 WAiNK locations, 33 underwater discoveries, 100 flamingos, 300 stunts, 70 of 80 challenges, all 15 of Bret's target decks, 200 of 277 base-model vehicles and 100 of 255 animals studied. It is the longest trophy in the game and the main reason the Platinum runs to roughly 200 hours.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)",
+        "Push Square via Exophase (18 Nov 2026)"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "grade": "silver",
+      "category": "activities",
+      "description": "Complete 250 Stunts.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Pull off 250 stunts across Leonida. Stunt jumps, flights under bridges, knife flights and base jumps all count. Keep going past 250: the 100% checklist wants 300 of the 397 stunts in the game, so this trophy unlocks on the way to A Long Road rather than as a separate grind.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Try each type of activity once.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Try each of the nine activity types at least once — one go at each is enough, you do not need to win or finish any of them. Sample them as they unlock during the story and this unlocks early.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "grade": "silver",
+      "category": "activities",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Take a gold medal in all 42 Shooting Range challenges, across the two shooting ranges. Every challenge needs gold — there is no shortcut. Treat it as a marksmanship session of its own rather than something squeezed between missions.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Win a Top Fun drone race at all 14 locations. One win per location is enough for the trophy. The 100% checklist separately wants all 42 drone time trials done, so keep racing after the trophy unlocks if you are chasing A Long Road.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Win 20 different races.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Win 20 different races — 20 distinct events, not the same race 20 times. The 100% checklist wants 30 of the 40 races won, so the trophy unlocks on the way there. Mix race types as you travel so the wins accumulate naturally.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Beat Cal in a fishing challenge.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Out-fish Cal in a fishing challenge. Fishing opens through the story's optional missions; take the challenge when Cal offers it. A single win is all it takes.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Complete an arcade game.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play one arcade game from start to finish. Any arcade game counts, so choose the one you enjoy. The 100% checklist separately wants all four video games played, so try the rest later if you are chasing A Long Road.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Complete the final mission for Andy.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play Andy's mission strand through to his final mission. Side-story finales stay open after the credits, so there is no rush — but note Andy's strand does not count toward Strangers & Freaks, which tracks only its own eight qualifying strands.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Complete the final mission for Kenton.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play Kenton's mission strand through to his final mission. Side-story finales stay open after the credits, so this can wait until the story is done and you are cleaning up.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Complete the final mission for Billy.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play Billy's mission strand through to his final mission. Side-story finales stay open after the credits. Like Andy's strand, Billy's does not count toward Strangers & Freaks.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "grade": "silver",
+      "category": "missions",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "time-sensitive",
+      "missable_note": "Not missable outright, but one strand is time-sensitive: the Race Against Yago in Chapter 3 carries an hourglass icon. Race it the moment it appears and save first.",
+      "effort": "short",
+      "guide": "Finish eight qualifying stranger mission strands across Leonida. Only some optional questlines count: Andy's, Billy's and Tyrone's do not, because they have their own trophies, so check the trophy's progress counter after each strand you finish. One strand is time-sensitive: the Race Against Yago in Chapter 3 shows an hourglass icon, so race it the moment it appears and save first, or the strand can slip past you.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Complete the final mission for Randy.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play Randy's mission strand through to his final mission. Side-story finales stay open after the credits, so this can wait until the story is done and you are cleaning up.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Complete the final mission for Tyrone.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Play Tyrone's mission strand through to his final mission. Side-story finales stay open after the credits. Like Andy's and Billy's strands, Tyrone's does not count toward Strangers & Freaks.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Meditate at every spot across Leonida.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "potentially-missable",
+      "missable_note": "Only trophy launch-week guides flag as potentially missable: Lucia's balcony meditation in Chapter 1 disappears when the chapter ends, and there is no mission replay. Do it in Chapter 1 and keep a Chapter 1 manual save.",
+      "effort": "short",
+      "guide": "Meditate at all 18 spots across Leonida. This is the one trophy launch-week guides flag as potentially missable, because there is no mission replay. The spot you can lose is Lucia's balcony meditation in Chapter 1: after the mission Down to Earth, look for Lucia at Jason's house in the morning, follow her out to the balcony and accept the meditation. It is gone once Chapter 1 ends, so do it before you leave the chapter and keep a Chapter 1 manual save until the trophy unlocks. Meditation spots show as purple icons when you are close, and each outdoor spot counts twice if you meditate there with both characters — bring your partner every time. The 100% checklist only needs 15 of the 18 spots, but this trophy needs all 18.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "grade": "bronze",
+      "category": "missions",
+      "description": "Hunt a unique animal for Bret.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Hunt a unique animal for Bret Vogel's hunting questline. It is Jason-only and sends you after animals through target decks — a clean head or heart shot keeps the carcass pristine. The 100% checklist wants all 15 of Bret's target decks finished, so keep hunting after this trophy unlocks.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don’t Touch My Deck",
+      "grade": "silver",
+      "category": "collectibles",
+      "description": "Complete 3 Collectible Card sets.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Finish three full collectible card sets. Cards are scattered across Leonida; pick them up as you explore rather than hunting them all at once. The 100% checklist wants 15 of the 18 sets, so three sets is only the start.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "grade": "silver",
+      "category": "collectibles",
+      "description": "WAiNK It at 100 locations.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Scan 100 locations with the WAiNK app. Scan vehicles and landmarks whenever you pass something unfamiliar — scanning a vehicle also counts as discovering it for Whip It Good, so this pairs with the vehicle grind. The 100% checklist wants exactly these 100 scans.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Complete 50 Challenges.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Complete 50 challenges, tracked under Progress, then Challenges. Many complete on their own while you play, so check the list before grinding any single one. The 100% checklist wants 70 of the 80, so keep going after this unlocks.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Lose a four-star wanted level while your partner is with you, and escape the heat. The easiest pairing is a bank vault job: vaults give you a four-star wanted level straight away, so escaping one with your partner earns this at the same time as Maximum Withdrawal. It only unlocks once you have left the red heat zone, not just the flashing search area.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Call your partner in, then rob three shops in a row while the police are still chasing you. If the stars fade and you are only in the red heat zone, the chain breaks — so move fast between shops. It can take about 30 seconds to unlock after you leave the third shop, so give it a moment before hitting a fourth.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Discover 100 vehicles.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "long-grind",
+      "guide": "Discover 100 vehicles. Scanning a vehicle with the WAiNK app counts as discovering it, so scan traffic as you drive instead of only driving what you own. The 100% checklist wants 200 of the 277 base models, so keep scanning after this unlocks.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Take down five enemies in a single use of Combat Focus — the slow-motion aim you trigger by pressing L3 and R3 while aiming. Pick a group of gang enemies, such as the guards at an illegal operation, and use an assault rifle; adrenaline extends your Focus, so start it with a full meter.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Make an unscheduled departure at VCIA.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Steal a large passenger plane docked at a boarding bridge at Vice City International Airport — planes parked elsewhere on the airfield do not count, and the gates E3 and E4 are reported to work. Get to the cockpit, back out toward the runway and take off. The trophy is delayed: fly about a kilometre away from the airport and it unlocks. Save first, because the police come fast. Method as reported by launch-week guides; the official description only says to make an unscheduled departure.",
+      "guide_status": "community-reported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Kinda hot in these Rhinos.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Get into a military Rhino tank. Tanks are reported parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map. Save first, get in, and drive and fire until the trophy unlocks. Method as reported by launch-week guides; the official description only gives the hint.",
+      "guide_status": "community-reported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Rob a jewelry store without being detected.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Hit a jewelry store without being seen. The Chapter 3 mission Yasmani's Jewelry Jobs gives you the Snap Gun and opens jewelry store robberies: use it on a store's locked back door — kicking the door in sets off the alarm. Inside the back room, find the note with the safe code, open the safe, and leave without being seen. Richardson Jewelry & Diamonds in Vice City is a good target. If anyone spots you, reload rather than push on.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "grade": "silver",
+      "category": "misc",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Hit five bank vaults and escape. Vaults unlock through That's Where The Money Is, an optional mission near the end of Chapter 4: tail an armored security van to a large bank and get into the vault while the guard has it open. You cannot carry all the bags alone, so bring your partner. The 100% checklist wants all eight vaults, so keep going after the fifth.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Rob an Armored Truck and escape.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Rob an armored truck and escape. Tail or ambush one, take it, and get clear. Like Hot Together, it only unlocks once you have left the red heat zone, not just the flashing search area.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Explore all of Leonida.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Explore all of Leonida until the map is fully revealed. Visit every named area — drive the highways, the Keys, the swamps and the city districts — and the trophy unlocks when the last area registers. It pairs naturally with the WAiNK scans and vehicle discoveries.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Rob one illegal operation belonging to each of the nine gangs. The 100% checklist wants all 39 operations, so this trophy unlocks along the way — keep a note of which gangs you have hit and mop up the rest during cleanup.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Follow the description: enjoy a cocktail with a view on Ocean Beach. The exact trigger had not been confirmed by launch-week guides at the time of writing, so do not grind this blindly — try the beachfront bars on Ocean Beach and check back as the community pins down the spot. This entry will not invent a method that has not been confirmed.",
+      "guide_status": "unconfirmed-method",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Break out of a vehicle showroom in classic style. The exact method had not been confirmed by launch-week guides at the time of writing — the description points at a showroom smash-out, but which showroom and what counts as the trigger were still unconfirmed. Do not grind this blindly; check back as the community confirms it.",
+      "guide_status": "unconfirmed-method",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Hit Kingpin Bowling, the Kolt & Associates bowling alley — an illegal operation you visit in Chapter 2. Bring sticky bombs. Take all three key valuables: the luxury watch in an office, the shotgun on a table, and the contents of the office safe, which you blow open with a sticky bomb. Then escape the police. If you leave something behind, the operation comes back later, so it is not missable.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "A partnership with mass appeal.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Get both Jason and Lucia to maximum Strength. Buy a gym membership and train with your partner there, since the partner trains alongside you. It unlocks when the second of the two maxes out. Method as reported by launch-week guides; the official description only hints at a partnership.",
+      "guide_status": "community-reported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Choices made (for better or worse).",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Rack up 500 actions that change your Criminal Profile. Robberies and fights feed it, so it fills up without a separate grind — just play the game the way the other trophies ask you to and check the counter in your stats now and then.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "Second time's the charm.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "The description hints at succeeding on a second attempt at something — second time's the charm. No exact trigger had been confirmed by launch-week guides at the time of writing, so this entry does not invent one. Check back as the community pins it down.",
+      "guide_status": "unconfirmed-method",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "grade": "bronze",
+      "category": "misc",
+      "description": "What the hell just happened?",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "The description is deliberately vague and something strange happens — it reads like a rare world encounter, and the exact trigger had not been confirmed by launch-week guides at the time of writing. Keep playing and it may find you; this entry does not invent a method that has not been confirmed.",
+      "guide_status": "unconfirmed-method",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "grade": "bronze",
+      "category": "activities",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "hidden": true,
+      "spoiler": true,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "short",
+      "guide": "Run someone over with a melee drive-by — a melee attack from a moving vehicle. The precise method was still being confirmed by launch-week guides at the time of writing, so treat the drive-by reading as the best current interpretation rather than a confirmed recipe.",
+      "guide_status": "community-reported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Fence a cumulative $250,000 in marked bills through your contacts. Marked bills come from bank and payday loan jobs, and you sell them to your contacts to launder them. The total is cumulative, so it builds across the whole game — and the 100% checklist wants the same $250,000 fenced.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Spend $100,000 across all shops.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Put $100,000 through the tills across all shops in total. The total is cumulative across every kind of shop, so it builds on its own as you buy weapons, clothes, food and gear — no need to waste money on purpose, just play and it lands.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Purchase all garage properties.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Own all eight garage properties, bought through the Vice City Real Estate app, which unlocks after the Chapter 2 mission Daily Driver. Together they cost about $160,000. Garages the story gives you do not count — only the ones you buy.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "grade": "bronze",
+      "category": "collectibles",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "hidden": false,
+      "spoiler": false,
+      "missable": "no",
+      "missable_note": "",
+      "effort": "collectible-grind",
+      "guide": "Put 10 vehicles on the books through the Scooter Bros app. The app opens in the Chapter 2 mission Moses: take a stolen car to Moses, choose Respray, then Register. From Chapter 3 you can also register cars with a standard tracker at Pay 'n' Spray. Each car needs a free garage space, so buy garages first and register cheap cars.",
+      "guide_status": "supported",
+      "verification": {
+        "name": "verified",
+        "description": "verified",
+        "grade": "verified",
+        "hidden": "reported"
+      },
+      "sources": [
+        "make.fun kit list (2026-11-18)",
+        "OutputLag — GTA 6 Trophy List (19 Nov 2026)",
+        "KeenGamer — Trophy Guide & Platinum Roadmap (19 Nov 2026)"
+      ]
+    }
+  ]
+}

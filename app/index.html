@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>55-Trophy Platinum Roadmap — GTA VI (PS5)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; works fully offline</p>
+    <h1>55-Trophy Platinum Roadmap</h1>
+    <p class="sub">Three questions, one screen: how far am I from the Platinum, what can I miss along the way, and what should I do next? All 55 trophies, with your progress saved in this browser.</p>
+    <div class="hero" id="hero">
+      <div class="ring" id="ring" role="img" aria-label="Platinum progress"><span id="pct">0%</span></div>
+      <div class="hero-stats">
+        <p class="big"><span id="earnedCount">0</span> <span class="dim">of 55 earned</span></p>
+        <p class="dim" id="remainLine">55 to go — the Platinum needs every one of them.</p>
+        <div class="gradebars" id="gradebars"></div>
+      </div>
+      <div class="hero-facts">
+        <p><strong>~200 h</strong><span>Platinum estimate*</span></p>
+        <p><strong>4/10</strong><span>Difficulty*</span></p>
+        <p><strong>1</strong><span>Potentially missable</span></p>
+        <p><strong>0</strong><span>Online trophies</span></p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="panel warn" id="missablePanel" aria-label="Missable warnings">
+    <h2>Read this first — the missable list</h2>
+    <p><strong>Positive Mental Attitude is the only trophy launch-week guides flag as potentially missable.</strong> Lucia&rsquo;s balcony meditation in Chapter&nbsp;1 is gone when the chapter ends, and there is no mission replay and no New Game Plus to get it back. Do it in Chapter&nbsp;1 (after Down to Earth, follow Lucia to the balcony in the morning) and keep a Chapter&nbsp;1 manual save. <strong>Strangers &amp; Freaks</strong> has one time-sensitive spot: the Race Against Yago in Chapter&nbsp;3 shows an hourglass icon — race it the moment it appears and save first.</p>
+    <p class="dim">Save rule for the whole run: a manual save at the start of every chapter, plus one untouched save from just before the final mission. 15 manual slots plus one autosave.</p>
+  </section>
+
+  <section class="panel" id="roadmapPanel" aria-label="Roadmap to the Platinum">
+    <h2>Your road to <span class="plat">Vice Got a Price!</span></h2>
+    <ol class="steps" id="steps"></ol>
+    <div class="nextup" id="nextup"></div>
+  </section>
+
+  <section class="controls panel" aria-label="Filters and progress tools">
+    <div class="row">
+      <label class="grow">Search <input id="q" type="search" placeholder="trophy, mission or keyword…" autocomplete="off"></label>
+      <label>Grade
+        <select id="grade">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check"><input id="earnedOnly" type="checkbox"> Earned only</label>
+      <label class="check"><input id="missableOnly" type="checkbox"> Missable / time-sensitive</label>
+      <label class="check spoiler"><input id="spoiler" type="checkbox" checked> Spoiler mode — hide hidden trophies until earned</label>
+    </div>
+    <div class="row chips" id="cats" role="group" aria-label="Filter by kind"></div>
+    <div class="row tools">
+      <button id="exportBtn" type="button">Export progress (.json)</button>
+      <label class="importBtn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+      <button id="resetBtn" type="button">Reset progress</button>
+      <span class="status dim" id="status" role="status">Progress saves in this browser automatically.</span>
+    </div>
+    <p class="dim small" id="qa"></p>
+  </section>
+
+  <p class="count dim" id="count"></p>
+  <section class="grid" id="grid" aria-live="polite"></section>
+  <noscript><p class="panel">This tracker needs JavaScript: the trophy list, filters and progress saving all run in your browser.</p></noscript>
+
+  <footer class="panel">
+    <h2>How this guide was verified</h2>
+    <p>Every name, official description and PS5 grade was cross-checked against the make.fun kit list and OutputLag&rsquo;s GTA&nbsp;6 Trophy List, which states its descriptions are the official text. The numbers inside the guides (250 stunts, 42 shooting-range medals, 14 Top&nbsp;Fun locations, 18 meditation spots, 9 activity types, 8 garages, 9 gangs, 500 Criminal Profile actions) were cross-checked against KeenGamer&rsquo;s Trophy Guide &amp; Platinum Roadmap. Hidden status (27 visible / 28 hidden) comes from Exophase-derived lists, not from Sony. Five trophies have no confirmed unlock method at launch — their guides say so instead of inventing one. *Platinum time (~200&nbsp;h) and difficulty (4/10) are launch-week estimates from KeenGamer, not official figures. Every guide is written in our own words and cites its sources; no Rockstar logo or artwork is used anywhere in this app.</p>
+    <p class="dim small">Sources: make.fun kit starter list (2026-11-18) · OutputLag, GTA 6 Trophy List · KeenGamer, GTA 6 Trophy Guide &amp; Platinum Roadmap · Push Square via Exophase (55 trophies incl. Platinum, 18 Nov 2026). Game: Grand Theft Auto VI, PlayStation 5. This is an unofficial fan guide.</p>
+  </footer>
+</main>
+<script type="module" src="src/app.js"></script>
+</body>
+</html>
